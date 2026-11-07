@@ -8,7 +8,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Airline Data Lakehouse**](https://github.com/swamini-21/airline-data-lakehouse) | Medallion lakehouse on 110M+ US flight records, with AI/BI dashboards and a Genie natural-language query agent | Databricks, PySpark, Delta Lake, Unity Catalog |
+| [**Airline Data Lakehouse**](https://github.com/swamini-21/airline-data-lakehouse) | Medallion lakehouse on 146M+ US flight records, with AI/BI dashboards and a Genie natural-language query agent | Databricks, PySpark, Delta Lake, Unity Catalog |
 | [**CMS Medicare Pipeline**](https://github.com/swamini-21/cms-medicare-analysis) | Dockerized ingestion into a PostgreSQL star schema, dbt models with SCD Type 2 snapshots, Soda data quality checks and Tableau dashboards | Python, Docker, PostgreSQL, dbt, Soda |
 | [**Airflow Orchestration**](https://github.com/swamini-21/airflow-cms-pipeline) | Airflow DAG that runs the Medicare pipeline end to end: idempotent ingest → dbt build → quality checks, with retries and alerts | Airflow, Astro CLI, Docker |
 | [**US Labor Market Pipeline**](https://github.com/swamini-21/labour-market-analysis-project) | Azure Data Factory pipelines loading BLS and FRED data into a star schema for employment and wage analysis | Azure Data Factory, Blob Storage, PostgreSQL, Tableau |
