@@ -1,6 +1,6 @@
 ## Hi, I'm Swamini 👋
 
-**Data Engineer** with 2.5 years of experience at Capgemini and an MS in Data Science from Indiana University. I build reliable data pipelines (ingestion, modeling, orchestration and data quality) and use AI where it actually helps, from Genie agents on a lakehouse to LLM-based extraction from unstructured text.
+**Data Engineer** with 3 years of experience an MS in Data Science from Indiana University. I build reliable data pipelines (ingestion, modeling, orchestration and data quality) and use AI where it actually helps, from Genie agents on a lakehouse to LLM-based extraction from unstructured text.
 
 📍 San Francisco, CA · Open to relocation 
 
