@@ -2,7 +2,7 @@
 
 **Data Engineer** with 2.5 years of experience at Capgemini and an MS in Data Science from Indiana University. I build reliable data pipelines (ingestion, modeling, orchestration and data quality) and use AI where it actually helps, from Genie agents on a lakehouse to LLM-based extraction from unstructured text.
 
-📍 San Francisco, CA · Open to relocation · Authorized to work in the US (STEM OPT)
+📍 San Francisco, CA · Open to relocation 
 
 ### 🚀 Featured projects
 
