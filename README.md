@@ -16,11 +16,11 @@
 
 ### 🛠️ Tech stack
 
-**Data engineering:** Databricks · Azure Data Factory · PySpark · Spark SQL · Delta Lake · dbt · Airflow  · Docker
-**Databases:** PostgreSQL · MS SQL Server · star schema / dimensional modeling
-**Data quality and testing:** Soda · dbt tests · pytest
-**Analytics and BI:** Power BI (PL-300 certified) · Tableau · Python (Pandas, NumPy)
-**AI/ML:** Transformers (BERT, RoBERTa) · LLM APIs (Gemini) · Databricks Genie
+   - **Data engineering:** Databricks · PySpark · Spark SQL · Delta Lake · dbt · Airflow · Azure Data Factory · Docker
+   - **Databases:** PostgreSQL · MS SQL Server · star schema / dimensional modeling
+   - **Data quality and testing:** Soda · dbt tests · pytest
+   - **Analytics and BI:** Power BI (PL-300 certified) · Tableau · Python (Pandas, NumPy)
+   - **AI/ML:** Transformers (BERT, RoBERTa) · LLM APIs (Gemini) · Databricks Genie
 
 ### 📫 Connect
 
